@@ -1,0 +1,38 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+h1{
+color:#000000;
+font-size:1.5em!important;
+}
+
+h2{
+color:#000000;
+font-size:1.2em!important;
+}
+
+p{
+color:#000000;
+font-size:1em;
+}
+
+div.col-lg-4.col-md-4.col-sm-12.col-xs-12{
+border:1px solid #cccccc;
+padding:0!important;
+margin:10;
+}
+
+div.texto-caja{
+padding:10px 15px;
+}
+
+div.row{
+padding:0px 15px;
+}
+
+form{
+margin:30px 0px;
+}
